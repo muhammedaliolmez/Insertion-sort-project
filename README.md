@@ -24,7 +24,7 @@ O(n²)
 
 ## Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 
-Algoritma 18 sayısını 8.adımda sıraya sokmaktadır.Best case = n, Worst Case=n² olarak hesaplanmıştır. Bu durumda örnek 7-28 adım aralığında çözülmesi beklenmektedir. 8 sayısı bu aralıkta olduğu için 18 sayısının sıralanması avarage case olarak değerlendirilir.  
+Algoritma 18 sayısını 8.adımda sıraya sokmaktadır.Best case = n, Worst Case=(n.(n+1))/2 olarak hesaplanmıştır. Bu durumda örnek 7-28 adım aralığında çözülmesi beklenmektedir. 8 sayısı bu aralıkta olduğu için 18 sayısının sıralanması avarage case olarak değerlendirilir.  
 
 ## [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
 
